@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UPSTREAM="https://github.com/fuserh/torproject.git"
+UPSTREAM="https://github.com/fuserh/page1.git"
 BOT_USER="github-actions[bot]"
 BOT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
 CONFIG_PATH="config"
